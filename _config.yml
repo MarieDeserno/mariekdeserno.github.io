@@ -1,3 +1,13 @@
 name: Marie Deserno
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+twitter_username: MarieDeserno
+github_username: mariekdeserno
+social:
+  - name: twitter
+    url: https://twitter.com/MarieDeserno
+  - name: instagram
+    url: https://www.instagram.com/mariedeserno/
+  - name: github
+    url: https://github.com/mariekdeserno
